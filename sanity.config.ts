@@ -7,8 +7,8 @@ export default defineConfig({
   name: 'default',
   title: 'Nuxt Sanity ',
 
-  projectId: 'ete9h5rx',
-  dataset: 'production',
+  projectId: 'YOUR_PROJECT_ID',
+  dataset: 'YOUR_DATASET',
 
   plugins: [structureTool(), visionTool()],
 
